@@ -98,3 +98,6 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+
+@media (max-width: 576px) {
+}
